@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Nome Do Projeto</title>
+    <title>App-Bic</title>
     <link rel="stylesheet" href="resources/css/home.css">
 </head>
 <body>
