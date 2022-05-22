@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="resources/css/styles.css">
 </head>
 <body>
-<form action="addUsuario" method="post">
+<form action="poow" method="post">
     <h1>Cadastro</h1>
     <div class="field">
         <div class="labels">
@@ -24,6 +24,7 @@
     <input type="text" name="nome">
     <input type="email" name="email">
     <input type="password" name="senha">
+            <input type="hidden" name="acao" value="AddUsuario">
         </div>
     </div>
     <div class="redirect">
